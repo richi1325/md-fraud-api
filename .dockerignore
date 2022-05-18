@@ -1,0 +1,9 @@
+**/.py[cod]
+**/.env
+**/env
+**/__pycache__
+**/.vscode
+**/README.md
+.dockerignore
+Dockerfile
+docker-compose.yaml
